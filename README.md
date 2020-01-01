@@ -19,7 +19,7 @@ This is for anyone that requires one centralized "internal" repository instead o
 Just run the following command, make sure you are working on an existing git repo path as this will add, commit and push the code at the end.
 
 ```bash 
-$ python terraform-as-subs.py
+$ python terraform-mods-as-submods.py
 ```
 
 *** This was tested with Python3 
